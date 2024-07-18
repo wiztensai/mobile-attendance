@@ -1,16 +1,11 @@
 # mobile_attendance2
 
-A new Flutter project.
+Mobile Attendance (Nanang Fitrianto)
 
-## Getting Started
+## Techstack
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Dart Flutter
+- Freezed
+- Flutter hooks & Riverpod hooks
+- Flutter_map (Maaf saya tidak menggunakan Google Map karena untuk pakainya harus menggunakan Credit Card. Saya belum ada CC)
+- Figma: [link figma](https://www.figma.com/design/19S1f8Vax1r1OuzX8Z2PUp/Flutter-Mobile-Attendance?node-id=0-1&t=MPSmAtSwOCBgHLxa-1) (Maaf sekali lagi, karena keterbatasan waktu, saya hanya implementasi sebagian design figma)
